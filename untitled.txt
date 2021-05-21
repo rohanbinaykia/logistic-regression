@@ -1,0 +1,1 @@
+ predicted survival on titanic dataset based on recall and f1score as evaluation metrics
